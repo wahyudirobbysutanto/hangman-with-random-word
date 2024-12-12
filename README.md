@@ -20,7 +20,7 @@ Hangman with Random Word is a Python-based terminal game where players guess a r
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hangman-with-random-word.git
+   git clone https://github.com/wahyudirobbysutanto/hangman-with-random-word.git
    cd hangman-with-random-word
    ```
 2. Install dependencies:
